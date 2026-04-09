@@ -2,7 +2,7 @@
 
 A simple re-texture of the basic ball into a bubblegum icecream one.
 
-![Bubblegum Icecream Ball Preview](https://media.discordapp.net/attachments/1074802683795472476/1489020551652442152/image.png?ex=69cf8eb4&is=69ce3d34&hm=df9fef35608ce9a3f2c2a0dc7e6e67f0e7338e20787e10c2e46f3174436f175e&=&format=webp&quality=lossless)
+![Bubblegum Icecream Ball Preview](https://raw.githubusercontent.com/KnockoutCity-Pirate-Radio/PirateRadio-Mods/refs/heads/main/mods/ball-bubblegum-icecream.png)
 
 ## Details
 
